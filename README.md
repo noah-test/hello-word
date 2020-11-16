@@ -14,6 +14,8 @@ SUBDIR=mRNN-mLSTM
 
 svn export https://github.com/huawei-noah/noah-research/trunk/$SUBDIR
 
+svn export https://github.com/huawei-noah/noah-research/trunk/mRNN-mLSTM
+
 If you'd like to submit a pull request, you'll need to clone the repository; we recommend making a shallow clone (without history).
 
 git clone git@github.com:huawei-research/noah-research.git --depth=1
