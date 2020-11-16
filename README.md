@@ -16,4 +16,4 @@ svn export https://github.com/huawei-noah/noah-research/trunk/$SUBDIR
 
 If you'd like to submit a pull request, you'll need to clone the repository; we recommend making a shallow clone (without history).
 
-git clone git@github.com:huawei-noah/noah-research.git --depth=1
+git clone https://github.com/huawei-noah/noah-research.git --depth=1
