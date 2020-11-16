@@ -5,7 +5,7 @@ Because the repo contains many subprojects (each subproject corresponds to a dir
 
 An example is as follows:
 
-mRNN-mLSTM->This is the title of an issue of mRNN-mLSTM
+[mRNN-mLSTM]This is the title of an issue of mRNN-mLSTM
 
 ### About downloading the repo
 Because the repo is large, we recommend you download only the subdirectory of interest:
