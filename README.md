@@ -1,5 +1,8 @@
 # hello-word
 This is just a test version.
+##
+For issue and PR, Please 
+##
 Because the repo is large, we recommend you download only the subdirectory of interest:
 
 SUBDIR=foo
