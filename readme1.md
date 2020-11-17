@@ -5,7 +5,7 @@ Because the repo contains many subprojects (each subproject corresponds to a dir
 
 Please refer to the following format:
 
--'[' + sub project name + ']' + ' ' + title
+--'[' + sub project name + ']' + ' ' + title
 
 An example is as follows:
 
